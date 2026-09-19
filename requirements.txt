@@ -1,0 +1,2 @@
+# Benötigte Bibliotheken für Projekt 6: Signalverarbeitung
+# Werden hier schrittweise erfasst
