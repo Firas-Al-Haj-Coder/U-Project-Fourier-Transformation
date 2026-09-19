@@ -1,0 +1,9 @@
+# Temporäre Jupyter-Sicherungen
+.ipynb_checkpoints/
+
+# Von Python generierter Zwischencode (Bytecode)
+__pycache__/
+*.pyc
+
+# macOS-Systemdateien
+.DS_Store
